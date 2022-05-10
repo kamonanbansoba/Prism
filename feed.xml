@@ -3,7 +3,7 @@
     <title>Prism</title>
     <link href="https://kazooduck.github.io/Prism/feed.xml" rel="self" />
     <link href="https://kazooduck.github.io/Prism" />
-    <updated>2022-05-09T21:56:38-07:00</updated>
+    <updated>2022-05-09T22:06:58-07:00</updated>
     <author>
         <name>kamonanban</name>
     </author>
@@ -59,18 +59,24 @@
         <id>https://kazooduck.github.io/Prism/changelog.html</id>
             <category term="Prism"/>
 
-        <updated>2022-05-09T21:01:24-07:00</updated>
+        <updated>2022-05-09T22:06:58-07:00</updated>
             <summary>
                 <![CDATA[
-                    Prism v9.1 - finalised hero tab TODO: add wearables tab, Prism v9.0 - added changelog
+                    Prism v1.0 -Public release -fixed links in footer -added "about us" -temporarily disabled search functionality TODO: add wearables tab, fix search, add page analytics Prism v0.9.1 - finalised hero tab TODO: add wearables tab, Prism v0.9.0 - added changelog
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Prism v9.1</p>
+                <p>Prism v1.0</p>
+<p>-Public release</p>
+<p>-fixed links in footer</p>
+<p>-added "about us"</p>
+<p>-temporarily disabled search functionality</p>
+<p>TODO: add wearables tab, fix search, add page analytics </p>
+<p>Prism v0.9.1</p>
 <p>- finalised hero tab</p>
 <p>TODO: add wearables tab,</p>
-<p>Prism v9.0</p>
+<p>Prism v0.9.0</p>
 <p>- added changelog</p>
             ]]>
         </content>
@@ -93,6 +99,32 @@
             <![CDATA[
                 <p>Today, the prism blog launches! Our current goals are to add more stories from all across the tech space! <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">-kamonanban</span></p>
 <p>feel free to discuss in the comments (currently they require me to approve them)</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Write For Us!</title>
+        <author>
+            <name>kamonanban</name>
+        </author>
+        <link href="https://kazooduck.github.io/Prism/write-for-us.html"/>
+        <id>https://kazooduck.github.io/Prism/write-for-us.html</id>
+            <category term="Prism"/>
+
+        <updated>2022-05-09T22:06:46-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Prism is founded on the premise of collaboration, there are two ways to submit a story for free. (please note, prism makes ZERO money, and will not compensate you for your work, I am not compensated either, think of it like an open forum!) How&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Prism is founded on the premise of collaboration, there are two ways to submit a story for free.</p>
+<p>(please note, prism makes ZERO money, and will not compensate you for your work, I am not compensated either, think of it like an open forum!)</p>
+<p>How to write for Prism:</p>
+<p>join the kamonanban discord: <a href="https://discord.gg/nyMCH2n4dV">https://discord.gg/nyMCH2n4dV</a></p>
+<div class="post__iframe"><iframe loading="lazy" width="350" height="500" src="https://canary.discord.com/widget?id=971953930525360138&amp;theme=dark" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe></div>
+<p>email me @ 1ubpxi8il [at symbol] mozmail.com</p>
             ]]>
         </content>
     </entry>

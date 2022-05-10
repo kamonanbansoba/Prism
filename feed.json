@@ -29,8 +29,8 @@
             "id": "https://kazooduck.github.io/Prism/changelog.html",
             "url": "https://kazooduck.github.io/Prism/changelog.html",
             "title": "Changelog",
-            "summary": "Prism v9.1 - finalised hero tab TODO: add wearables tab, Prism v9.0 - added changelog",
-            "content_html": "<p>Prism v9.1</p>\n<p>- finalised hero tab</p>\n<p>TODO: add wearables tab,</p>\n<p>Prism v9.0</p>\n<p>- added changelog</p>",
+            "summary": "Prism v1.0 -Public release -fixed links in footer -added \"about us\" -temporarily disabled search functionality TODO: add wearables tab, fix search, add page analytics Prism v0.9.1 - finalised hero tab TODO: add wearables tab, Prism v0.9.0 - added changelog",
+            "content_html": "<p>Prism v1.0</p>\n<p>-Public release</p>\n<p>-fixed links in footer</p>\n<p>-added \"about us\"</p>\n<p>-temporarily disabled search functionality</p>\n<p>TODO: add wearables tab, fix search, add page analytics </p>\n<p>Prism v0.9.1</p>\n<p>- finalised hero tab</p>\n<p>TODO: add wearables tab,</p>\n<p>Prism v0.9.0</p>\n<p>- added changelog</p>",
             "author": {
                 "name": "kamonanban"
             },
@@ -38,7 +38,7 @@
                    "Prism"
             ],
             "date_published": "2022-05-09T16:45:06-07:00",
-            "date_modified": "2022-05-09T21:01:24-07:00"
+            "date_modified": "2022-05-09T22:06:58-07:00"
         },
         {
             "id": "https://kazooduck.github.io/Prism/grand-opening.html",
@@ -53,6 +53,21 @@
             ],
             "date_published": "2022-05-07T19:05:21-07:00",
             "date_modified": "2022-05-09T21:56:38-07:00"
+        },
+        {
+            "id": "https://kazooduck.github.io/Prism/write-for-us.html",
+            "url": "https://kazooduck.github.io/Prism/write-for-us.html",
+            "title": "Write For Us!",
+            "summary": "Prism is founded on the premise of collaboration, there are two ways to submit a story for free. (please note, prism makes ZERO money, and will not compensate you for your work, I am not compensated either, think of it like an open forum!) How&hellip;",
+            "content_html": "<p>Prism is founded on the premise of collaboration, there are two ways to submit a story for free.</p>\n<p>(please note, prism makes ZERO money, and will not compensate you for your work, I am not compensated either, think of it like an open forum!)</p>\n<p>How to write for Prism:</p>\n<p>join the kamonanban discord: <a href=\"https://discord.gg/nyMCH2n4dV\">https://discord.gg/nyMCH2n4dV</a></p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"350\" height=\"500\" src=\"https://canary.discord.com/widget?id=971953930525360138&amp;theme=dark\" allowtransparency=\"true\" frameborder=\"0\" sandbox=\"allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts\"></iframe></div>\n<p>email me @ 1ubpxi8il [at symbol] mozmail.com</p>",
+            "author": {
+                "name": "kamonanban"
+            },
+            "tags": [
+                   "Prism"
+            ],
+            "date_published": "2022-05-05T19:25:30-07:00",
+            "date_modified": "2022-05-09T22:06:46-07:00"
         },
         {
             "id": "https://kazooduck.github.io/Prism/nothing-special-nothing-os-launcher-beta.html",
