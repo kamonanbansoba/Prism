@@ -3,7 +3,7 @@
     <title>Prism</title>
     <link href="https://prism.pages.dev/feed.xml" rel="self" />
     <link href="https://prism.pages.dev" />
-    <updated>2022-05-10T07:05:09-07:00</updated>
+    <updated>2022-05-10T16:09:24-07:00</updated>
     <author>
         <name>kamonanban</name>
     </author>
@@ -59,15 +59,20 @@
         <id>https://prism.pages.dev/changelog.html</id>
             <category term="Prism"/>
 
-        <updated>2022-05-10T07:04:03-07:00</updated>
+        <updated>2022-05-10T16:09:24-07:00</updated>
             <summary>
                 <![CDATA[
-                    Prism v1.1.1 -started google indexing -verified site for google custom search -added github &amp; discord to footer TODO: add wearables posts, fix analytics Prism v1.1 -fixed comments -re-enabled search(will not work until indexing finishes) Prism v1.0 -Public release -fixed links in footer -added "about us"&hellip;
+                    Prism v1.1.2 -remapped entire web layout from github pages to cloudflare -added sitemap to google crawler -added site to google search (hopefully) TODO: add wearable posts, rework about us, add non-google analytics Prism v1.1.1 -started google indexing -verified site for google custom search -added github&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Prism v1.1.1</p>
+                <p>Prism v1.1.2</p>
+<p>-remapped entire web layout from github pages to cloudflare</p>
+<p>-added sitemap to google crawler</p>
+<p>-added site to google search (hopefully)</p>
+<p>TODO: add wearable posts, rework about us, add non-google analytics</p>
+<p>Prism v1.1.1</p>
 <p>-started google indexing</p>
 <p>-verified site for google custom search</p>
 <p>-added github &amp; discord to footer</p>
