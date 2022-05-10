@@ -44,15 +44,15 @@
             "id": "https://kazooduck.github.io/Prism/grand-opening.html",
             "url": "https://kazooduck.github.io/Prism/grand-opening.html",
             "title": "Grand Opening!",
-            "summary": "Today, the prism blog launches! Our current goals are to add more stories from all across the tech space! -kamonanban feel free to discuss in the comments (currently they require me to approve them)",
-            "content_html": "<p>Today, the prism blog launches! Our current goals are to add more stories from all across the tech space! <span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">-kamonanban</span></p>\n<p>feel free to discuss in the comments (currently they require me to approve them)</p>",
+            "summary": "Today, the prism blog launches! Our current goals are to add more stories from all across the tech space! -kamonanban feel free to discuss in the comments (currently they require me to approve them) Comments are currently broken, please check back soon!",
+            "content_html": "<p>Today, the prism blog launches! Our current goals are to add more stories from all across the tech space! <span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">-kamonanban</span></p>\n<p><span style=\"text-decoration: line-through;\">feel free to discuss in the comments (currently they require me to approve them)  </span>Comments are currently broken, please check back soon!</p>",
             "author": {
                 "name": "kamonanban"
             },
             "tags": [
             ],
             "date_published": "2022-05-07T19:05:21-07:00",
-            "date_modified": "2022-05-09T21:56:38-07:00"
+            "date_modified": "2022-05-09T22:22:39-07:00"
         },
         {
             "id": "https://kazooduck.github.io/Prism/write-for-us.html",

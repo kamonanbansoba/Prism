@@ -3,7 +3,7 @@
     <title>Prism</title>
     <link href="https://kazooduck.github.io/Prism/feed.xml" rel="self" />
     <link href="https://kazooduck.github.io/Prism" />
-    <updated>2022-05-09T22:06:58-07:00</updated>
+    <updated>2022-05-09T22:22:39-07:00</updated>
     <author>
         <name>kamonanban</name>
     </author>
@@ -89,16 +89,16 @@
         <link href="https://kazooduck.github.io/Prism/grand-opening.html"/>
         <id>https://kazooduck.github.io/Prism/grand-opening.html</id>
 
-        <updated>2022-05-09T21:56:38-07:00</updated>
+        <updated>2022-05-09T22:22:39-07:00</updated>
             <summary>
                 <![CDATA[
-                    Today, the prism blog launches! Our current goals are to add more stories from all across the tech space! -kamonanban feel free to discuss in the comments (currently they require me to approve them)
+                    Today, the prism blog launches! Our current goals are to add more stories from all across the tech space! -kamonanban feel free to discuss in the comments (currently they require me to approve them) Comments are currently broken, please check back soon!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Today, the prism blog launches! Our current goals are to add more stories from all across the tech space! <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">-kamonanban</span></p>
-<p>feel free to discuss in the comments (currently they require me to approve them)</p>
+<p><span style="text-decoration: line-through;">feel free to discuss in the comments (currently they require me to approve them)  </span>Comments are currently broken, please check back soon!</p>
             ]]>
         </content>
     </entry>
