@@ -29,8 +29,8 @@
             "id": "https://kazooduck.github.io/Prism/changelog.html",
             "url": "https://kazooduck.github.io/Prism/changelog.html",
             "title": "Changelog",
-            "summary": "Prism v1.0 -Public release -fixed links in footer -added \"about us\" -temporarily disabled search functionality TODO: add wearables tab, fix search, add page analytics Prism v0.9.1 - finalised hero tab TODO: add wearables tab, Prism v0.9.0 - added changelog",
-            "content_html": "<p>Prism v1.0</p>\n<p>-Public release</p>\n<p>-fixed links in footer</p>\n<p>-added \"about us\"</p>\n<p>-temporarily disabled search functionality</p>\n<p>TODO: add wearables tab, fix search, add page analytics </p>\n<p>Prism v0.9.1</p>\n<p>- finalised hero tab</p>\n<p>TODO: add wearables tab,</p>\n<p>Prism v0.9.0</p>\n<p>- added changelog</p>",
+            "summary": "Prism v1.1 -fixed comments -re-enabled search Prism v1.0 -Public release -fixed links in footer -added \"about us\" -temporarily disabled search functionality TODO: add wearables tab, fix search, add page analytics Prism v0.9.1 - finalised hero tab TODO: add wearables tab, Prism v0.9.0 - added changelog",
+            "content_html": "<p>Prism v1.1</p>\n<p>-fixed comments</p>\n<p>-re-enabled search</p>\n<p>Prism v1.0</p>\n<p>-Public release</p>\n<p>-fixed links in footer</p>\n<p>-added \"about us\"</p>\n<p>-temporarily disabled search functionality</p>\n<p>TODO: add wearables tab, fix search, add page analytics </p>\n<p>Prism v0.9.1</p>\n<p>- finalised hero tab</p>\n<p>TODO: add wearables tab,</p>\n<p>Prism v0.9.0</p>\n<p>- added changelog</p>",
             "author": {
                 "name": "kamonanban"
             },
@@ -38,7 +38,7 @@
                    "Prism"
             ],
             "date_published": "2022-05-09T16:45:06-07:00",
-            "date_modified": "2022-05-09T22:06:58-07:00"
+            "date_modified": "2022-05-10T06:23:04-07:00"
         },
         {
             "id": "https://kazooduck.github.io/Prism/grand-opening.html",
