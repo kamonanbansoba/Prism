@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Prism</title>
-    <link href="https://kazooduck.github.io/Prism/feed.xml" rel="self" />
-    <link href="https://kazooduck.github.io/Prism" />
+    <link href="https://prism.pages.dev/feed.xml" rel="self" />
+    <link href="https://prism.pages.dev" />
     <updated>2022-05-10T07:05:09-07:00</updated>
     <author>
         <name>kamonanban</name>
     </author>
-    <id>https://kazooduck.github.io/Prism</id>
+    <id>https://prism.pages.dev</id>
 
     <entry>
         <title>About Us</title>
         <author>
             <name>kamonanban</name>
         </author>
-        <link href="https://kazooduck.github.io/Prism/about-us.html"/>
-        <id>https://kazooduck.github.io/Prism/about-us.html</id>
+        <link href="https://prism.pages.dev/about-us.html"/>
+        <id>https://prism.pages.dev/about-us.html</id>
             <category term="Prism"/>
 
         <updated>2022-05-09T21:22:26-07:00</updated>
@@ -55,8 +55,8 @@
         <author>
             <name>kamonanban</name>
         </author>
-        <link href="https://kazooduck.github.io/Prism/changelog.html"/>
-        <id>https://kazooduck.github.io/Prism/changelog.html</id>
+        <link href="https://prism.pages.dev/changelog.html"/>
+        <id>https://prism.pages.dev/changelog.html</id>
             <category term="Prism"/>
 
         <updated>2022-05-10T07:04:03-07:00</updated>
@@ -94,8 +94,8 @@
         <author>
             <name>kamonanban</name>
         </author>
-        <link href="https://kazooduck.github.io/Prism/grand-opening.html"/>
-        <id>https://kazooduck.github.io/Prism/grand-opening.html</id>
+        <link href="https://prism.pages.dev/grand-opening.html"/>
+        <id>https://prism.pages.dev/grand-opening.html</id>
 
         <updated>2022-05-10T07:05:09-07:00</updated>
             <summary>
@@ -115,8 +115,8 @@
         <author>
             <name>kamonanban</name>
         </author>
-        <link href="https://kazooduck.github.io/Prism/write-for-us.html"/>
-        <id>https://kazooduck.github.io/Prism/write-for-us.html</id>
+        <link href="https://prism.pages.dev/write-for-us.html"/>
+        <id>https://prism.pages.dev/write-for-us.html</id>
             <category term="Prism"/>
 
         <updated>2022-05-09T22:06:46-07:00</updated>
@@ -141,21 +141,21 @@
         <author>
             <name>kamonanban</name>
         </author>
-        <link href="https://kazooduck.github.io/Prism/nothing-special-nothing-os-launcher-beta.html"/>
-        <id>https://kazooduck.github.io/Prism/nothing-special-nothing-os-launcher-beta.html</id>
+        <link href="https://prism.pages.dev/nothing-special-nothing-os-launcher-beta.html"/>
+        <id>https://prism.pages.dev/nothing-special-nothing-os-launcher-beta.html</id>
             <category term="Phones &amp; Tablets"/>
             <category term="Concepts"/>
 
         <updated>2022-05-05T19:26:41-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://kazooduck.github.io/Prism/media/posts/3/rp749arw.bmp" alt="" />
+                        <img src="https://prism.pages.dev/media/posts/3/rp749arw.bmp" alt="" />
                     Former OnePlus CEO Carl Pei’s “Nothing” just released a beta of the launcher for upcoming “Nothing phone(1)”, but only officially for the Samsung s21, 22, pixel 5, 6 and supposedly Oneplus phones in the near future. My thoughts: This is a very odd way for&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://kazooduck.github.io/Prism/media/posts/3/rp749arw.bmp" alt="" />
+                    <img src="https://prism.pages.dev/media/posts/3/rp749arw.bmp" alt="" />
                 <p>Former OnePlus CEO Carl Pei’s “Nothing” just released a beta of the launcher for upcoming “Nothing phone(1)”, but only officially for the Samsung s21, 22, pixel 5, 6 and supposedly Oneplus phones in the near future.</p>
 <p> </p>
 <blockquote id="ips_uid_3886_2" class="ipsQuote" data-ipsquote="">
@@ -168,13 +168,13 @@
 <p> </p>
 <p>Gallery:</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://kazooduck.github.io/Prism/media/posts/3/gallery/872979D3-C576-4591-B1A2-FA2A65EC5427.thumb.jpeg.2dc74e0766bca0c4a4dcb9c7c81e5a75.jpeg" data-size="1000x750"><img loading="lazy" src="https://kazooduck.github.io/Prism/media/posts/3/gallery/872979D3-C576-4591-B1A2-FA2A65EC5427.thumb.jpeg.2dc74e0766bca0c4a4dcb9c7c81e5a75-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://prism.pages.dev/media/posts/3/gallery/872979D3-C576-4591-B1A2-FA2A65EC5427.thumb.jpeg.2dc74e0766bca0c4a4dcb9c7c81e5a75.jpeg" data-size="1000x750"><img loading="lazy" src="https://prism.pages.dev/media/posts/3/gallery/872979D3-C576-4591-B1A2-FA2A65EC5427.thumb.jpeg.2dc74e0766bca0c4a4dcb9c7c81e5a75-thumbnail.jpeg" alt="" width="720" height="540"></a>
 <figcaption>The google search bar looks out of place on the black and white default background.</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://kazooduck.github.io/Prism/media/posts/3/gallery/C062BD14-28B3-4C49-A4A6-33B017871E21.thumb.jpeg.4dcf326809e2e5e640b015a579ac6db1.jpeg" data-size="1000x750"><img loading="lazy" src="https://kazooduck.github.io/Prism/media/posts/3/gallery/C062BD14-28B3-4C49-A4A6-33B017871E21.thumb.jpeg.4dcf326809e2e5e640b015a579ac6db1-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://prism.pages.dev/media/posts/3/gallery/C062BD14-28B3-4C49-A4A6-33B017871E21.thumb.jpeg.4dcf326809e2e5e640b015a579ac6db1.jpeg" data-size="1000x750"><img loading="lazy" src="https://prism.pages.dev/media/posts/3/gallery/C062BD14-28B3-4C49-A4A6-33B017871E21.thumb.jpeg.4dcf326809e2e5e640b015a579ac6db1-thumbnail.jpeg" alt="" width="720" height="540"></a>
 <figcaption>When that nothing effect looks good, it REALLY looks good</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://kazooduck.github.io/Prism/media/posts/3/gallery/image.thumb.jpeg.0854a8ca572c11c0dc35b0420d114abc.jpeg" data-size="710x1500"><img loading="lazy" src="https://kazooduck.github.io/Prism/media/posts/3/gallery/image.thumb.jpeg.0854a8ca572c11c0dc35b0420d114abc-thumbnail.jpeg" alt="" width="710" height="1500"></a>
+<figure class="gallery__item"><a href="https://prism.pages.dev/media/posts/3/gallery/image.thumb.jpeg.0854a8ca572c11c0dc35b0420d114abc.jpeg" data-size="710x1500"><img loading="lazy" src="https://prism.pages.dev/media/posts/3/gallery/image.thumb.jpeg.0854a8ca572c11c0dc35b0420d114abc-thumbnail.jpeg" alt="" width="710" height="1500"></a>
 <figcaption>Material you is kinda broken.</figcaption>
 </figure>
 </div></div>
@@ -188,20 +188,20 @@
         <author>
             <name>kamonanban</name>
         </author>
-        <link href="https://kazooduck.github.io/Prism/googles-little-signals.html"/>
-        <id>https://kazooduck.github.io/Prism/googles-little-signals.html</id>
+        <link href="https://prism.pages.dev/googles-little-signals.html"/>
+        <id>https://prism.pages.dev/googles-little-signals.html</id>
             <category term="Concepts"/>
 
         <updated>2022-05-05T17:29:58-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://kazooduck.github.io/Prism/media/posts/2/librewolf_sak7XbzYq4.png" alt="" />
+                        <img src="https://prism.pages.dev/media/posts/2/librewolf_sak7XbzYq4.png" alt="" />
                     Little Signals, a DIY ambient computing kit by Google. Recently, Google unveiled a project called “little signals”, it is their biggest exploration into ambient computing since google assistant. Essentially, little signals are notification alerts that are designed to be as little of an intrusion into&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://kazooduck.github.io/Prism/media/posts/2/librewolf_sak7XbzYq4.png" alt="" />
+                    <img src="https://prism.pages.dev/media/posts/2/librewolf_sak7XbzYq4.png" alt="" />
                 <div class="ipsType_normal ipsType_richText ipsPadding_bottom ipsContained" data-role="commentContent" data-controller="core.front.core.lightboxedImages">
 <p>Little Signals, a DIY ambient computing kit by Google.</p>
 <p>Recently, Google unveiled a project called “little signals”, it is their biggest exploration into ambient computing since google assistant. Essentially, little signals are notification alerts that are designed to be as little of an intrusion into life as possible.</p>
