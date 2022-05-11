@@ -3,12 +3,32 @@
     <title>Prism</title>
     <link href="https://prism.pages.dev/feed.xml" rel="self" />
     <link href="https://prism.pages.dev" />
-    <updated>2022-05-10T22:52:40-07:00</updated>
+    <updated>2022-05-11T06:49:37-07:00</updated>
     <author>
         <name>kamonanban</name>
     </author>
     <id>https://prism.pages.dev</id>
 
+    <entry>
+        <title>rss</title>
+        <author>
+            <name>kamonanban</name>
+        </author>
+        <link href="https://prism.pages.dev/rss.html"/>
+        <id>https://prism.pages.dev/rss.html</id>
+
+        <updated>2022-05-11T06:49:37-07:00</updated>
+            <summary>
+                <![CDATA[
+                    testing rss syncing
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>testing rss syncing</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>How Samsung Fumbled Android 12 (and why it will happen again)</title>
         <author>

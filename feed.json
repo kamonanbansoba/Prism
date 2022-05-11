@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://prism.pages.dev/rss.html",
+            "url": "https://prism.pages.dev/rss.html",
+            "title": "rss",
+            "summary": "testing rss syncing",
+            "content_html": "<p>testing rss syncing</p>",
+            "author": {
+                "name": "kamonanban"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-11T06:49:37-07:00",
+            "date_modified": "2022-05-11T06:49:37-07:00"
+        },
+        {
             "id": "https://prism.pages.dev/how-samsung-fumbled-android-12-and-why-it-will-happen-again.html",
             "url": "https://prism.pages.dev/how-samsung-fumbled-android-12-and-why-it-will-happen-again.html",
             "title": "How Samsung Fumbled Android 12 (and why it will happen again)",
