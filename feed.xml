@@ -3,7 +3,7 @@
     <title>Prism</title>
     <link href="https://prism.pages.dev/feed.xml" rel="self" />
     <link href="https://prism.pages.dev" />
-    <updated>2022-05-10T22:52:40-07:00</updated>
+    <updated>2022-05-12T18:38:34-07:00</updated>
     <author>
         <name>kamonanban</name>
     </author>
@@ -92,16 +92,17 @@
         <id>https://prism.pages.dev/changelog.html</id>
             <category term="Prism"/>
 
-        <updated>2022-05-10T22:42:31-07:00</updated>
+        <updated>2022-05-12T18:38:34-07:00</updated>
             <summary>
                 <![CDATA[
-                    (pre-release) -opinions tag Prism v1.1.2 -remapped entire web layout from github pages to cloudflare -added sitemap to google crawler -added site to google search (hopefully) TODO: add wearable posts, rework about us, add non-google analytics Prism v1.1.1 -started google indexing -verified site for google custom&hellip;
+                    (pre-release) -opinions tag -tab colors on supported browsers Prism v1.1.2 -remapped entire web layout from github pages to cloudflare -added sitemap to google crawler -added site to google search (hopefully) TODO: add wearable posts, rework about us, add non-google analytics Prism v1.1.1 -started google indexing&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>(pre-release)</p>
 <p>-opinions tag</p>
+<p>-tab colors on supported browsers</p>
 <p>Prism v1.1.2</p>
 <p>-remapped entire web layout from github pages to cloudflare</p>
 <p>-added sitemap to google crawler</p>
