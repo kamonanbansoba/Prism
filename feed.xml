@@ -3,7 +3,7 @@
     <title>Prism</title>
     <link href="https://prism.pages.dev/feed.xml" rel="self" />
     <link href="https://prism.pages.dev" />
-    <updated>2022-05-12T18:38:34-07:00</updated>
+    <updated>2022-05-19T21:21:08-07:00</updated>
     <author>
         <name>kamonanban</name>
     </author>
@@ -16,10 +16,10 @@
         </author>
         <link href="https://prism.pages.dev/how-samsung-fumbled-android-12-and-why-it-will-happen-again.html"/>
         <id>https://prism.pages.dev/how-samsung-fumbled-android-12-and-why-it-will-happen-again.html</id>
+            <category term="Prism Exclusives"/>
             <category term="Phones &amp; Tablets"/>
-            <category term="Opinion"/>
 
-        <updated>2022-05-10T22:52:40-07:00</updated>
+        <updated>2022-05-18T18:10:42-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://prism.pages.dev/media/posts/9/librewolf_FABPPTc2Ji.png" alt="" />
@@ -92,16 +92,18 @@
         <id>https://prism.pages.dev/changelog.html</id>
             <category term="Prism"/>
 
-        <updated>2022-05-12T18:38:34-07:00</updated>
+        <updated>2022-05-19T21:21:08-07:00</updated>
             <summary>
                 <![CDATA[
-                    (pre-release) -opinions tag -tab colors on supported browsers Prism v1.1.2 -remapped entire web layout from github pages to cloudflare -added sitemap to google crawler -added site to google search (hopefully) TODO: add wearable posts, rework about us, add non-google analytics Prism v1.1.1 -started google indexing&hellip;
+                    (pre-release) -renamed github, some pages may be BROKEN -Prism Exclusives tag -opinions tag (removed because of redundancy) -tab colors on supported browsers Prism v1.1.2 -remapped entire web layout from github pages to cloudflare -added sitemap to google crawler -added site to google search (hopefully) TODO:&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>(pre-release)</p>
-<p>-opinions tag</p>
+<p>-renamed github, some pages may be BROKEN</p>
+<p>-Prism Exclusives tag</p>
+<p><span style="text-decoration: line-through;">-opinions tag </span> (removed because of redundancy)</p>
 <p>-tab colors on supported browsers</p>
 <p>Prism v1.1.2</p>
 <p>-remapped entire web layout from github pages to cloudflare</p>
@@ -185,7 +187,6 @@
         <link href="https://prism.pages.dev/nothing-special-nothing-os-launcher-beta.html"/>
         <id>https://prism.pages.dev/nothing-special-nothing-os-launcher-beta.html</id>
             <category term="Phones &amp; Tablets"/>
-            <category term="Opinion"/>
             <category term="Concepts"/>
 
         <updated>2022-05-10T22:42:02-07:00</updated>
@@ -232,7 +233,6 @@
         </author>
         <link href="https://prism.pages.dev/googles-little-signals.html"/>
         <id>https://prism.pages.dev/googles-little-signals.html</id>
-            <category term="Opinion"/>
             <category term="Concepts"/>
 
         <updated>2022-05-10T22:42:08-07:00</updated>
