@@ -46,8 +46,8 @@
             "id": "https://prism.ninja/changelog/",
             "url": "https://prism.ninja/changelog/",
             "title": "Changelog",
-            "summary": "Prism v1.2 -added new prism.ninja domain. huge thanks to mecanik.dev for buying it this time around -renamed github, some pages may be BROKEN -Prism Exclusives tag -tab colors on supported browsers Prism v1.1.2 -remapped entire web layout from github pages to cloudflare -added sitemap to&hellip;",
-            "content_html": "<p>Prism v1.2</p>\n<p>-added new prism.ninja domain. huge thanks to <a href=\"https://mecanik.dev\">mecanik.dev</a> for buying it this time around</p>\n<p>-renamed github, some pages may be BROKEN</p>\n<p>-Prism Exclusives tag</p>\n<p>-tab colors on supported browsers</p>\n<p>Prism v1.1.2</p>\n<p>-remapped entire web layout from github pages to cloudflare</p>\n<p>-added sitemap to google crawler</p>\n<p>-added site to google search (hopefully)</p>\n<p>TODO: add wearable posts, rework about us, add non-google analytics</p>\n<p>Prism v1.1.1</p>\n<p>-started google indexing</p>\n<p>-verified site for google custom search</p>\n<p>-added github &amp; discord to footer</p>\n<p>TODO: add wearables posts, fix analytics</p>\n<p>Prism v1.1</p>\n<p>-fixed comments</p>\n<p>-re-enabled search(will not work until indexing finishes)</p>\n<p>Prism v1.0</p>\n<p>-Public release</p>\n<p>-fixed links in footer</p>\n<p>-added \"about us\"</p>\n<p>-temporarily disabled search functionality</p>\n<p>TODO: add wearables tab, fix search, add page analytics </p>\n<p>Prism v0.9.1</p>\n<p>- finalised hero tab</p>\n<p>TODO: add wearables tab,</p>\n<p>Prism v0.9.0</p>\n<p>- added changelog</p>",
+            "summary": "Prism v1.2 -analytics are through cloudflare, and shouldnt track you across sites -added new prism.ninja domain. huge thanks to mecanik.dev for buying it this time around -renamed github, some pages may be BROKEN -Prism Exclusives tag -tab colors on supported browsers Prism v1.1.2 -remapped entire&hellip;",
+            "content_html": "<p>Prism v1.2</p>\n<p>-analytics are through cloudflare, and shouldnt track you across sites</p>\n<p>-added new prism.ninja domain. huge thanks to <a href=\"https://mecanik.dev\">mecanik.dev</a> for buying it this time around</p>\n<p>-renamed github, some pages may be BROKEN</p>\n<p>-Prism Exclusives tag</p>\n<p>-tab colors on supported browsers</p>\n<p>Prism v1.1.2</p>\n<p>-remapped entire web layout from github pages to cloudflare</p>\n<p>-added sitemap to google crawler</p>\n<p>-added site to google search (hopefully)</p>\n<p>TODO: add wearable posts, rework about us, add non-google analytics</p>\n<p>Prism v1.1.1</p>\n<p>-started google indexing</p>\n<p>-verified site for google custom search</p>\n<p>-added github &amp; discord to footer</p>\n<p>TODO: add wearables posts, fix analytics</p>\n<p>Prism v1.1</p>\n<p>-fixed comments</p>\n<p>-re-enabled search(will not work until indexing finishes)</p>\n<p>Prism v1.0</p>\n<p>-Public release</p>\n<p>-fixed links in footer</p>\n<p>-added \"about us\"</p>\n<p>-temporarily disabled search functionality</p>\n<p>TODO: add wearables tab, fix search, add page analytics </p>\n<p>Prism v0.9.1</p>\n<p>- finalised hero tab</p>\n<p>TODO: add wearables tab,</p>\n<p>Prism v0.9.0</p>\n<p>- added changelog</p>",
             "author": {
                 "name": "kamonanban"
             },
@@ -55,7 +55,7 @@
                    "Prism"
             ],
             "date_published": "2022-05-09T16:45:06-07:00",
-            "date_modified": "2022-05-20T17:19:47-07:00"
+            "date_modified": "2022-05-20T17:24:01-07:00"
         },
         {
             "id": "https://prism.ninja/grand-opening/",
