@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Prism</title>
-    <link href="https://prism.pages.dev/feed.xml" rel="self" />
-    <link href="https://prism.pages.dev" />
-    <updated>2022-05-19T21:21:08-07:00</updated>
+    <link href="https://prism.ninja/feed.xml" rel="self" />
+    <link href="https://prism.ninja" />
+    <updated>2022-05-20T06:10:45-07:00</updated>
     <author>
         <name>kamonanban</name>
     </author>
-    <id>https://prism.pages.dev</id>
+    <id>https://prism.ninja</id>
 
     <entry>
         <title>How Samsung Fumbled Android 12 (and why it will happen again)</title>
         <author>
             <name>kamonanban</name>
         </author>
-        <link href="https://prism.pages.dev/how-samsung-fumbled-android-12-and-why-it-will-happen-again.html"/>
-        <id>https://prism.pages.dev/how-samsung-fumbled-android-12-and-why-it-will-happen-again.html</id>
+        <link href="https://prism.ninja/how-samsung-fumbled-android-12-and-why-it-will-happen-again/"/>
+        <id>https://prism.ninja/how-samsung-fumbled-android-12-and-why-it-will-happen-again/</id>
             <category term="Prism Exclusives"/>
             <category term="Phones &amp; Tablets"/>
 
         <updated>2022-05-18T18:10:42-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://prism.pages.dev/media/posts/9/librewolf_FABPPTc2Ji.png" alt="" />
+                        <img src="https://prism.ninja/media/posts/9/librewolf_FABPPTc2Ji.png" alt="" />
                     Samsung has been a long lasting android device manufacturer, however, they are infamous for their slow updates and patchy support; Recently, Samsung has been fixing up their act with updates, releasing them faster, and giving more support to devices. However, the Android Twelve update could&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://prism.pages.dev/media/posts/9/librewolf_FABPPTc2Ji.png" alt="" />
+                    <img src="https://prism.ninja/media/posts/9/librewolf_FABPPTc2Ji.png" alt="" />
                 <p>Samsung has been a long lasting android device manufacturer, however, they are infamous for their slow updates and patchy support; Recently, Samsung has been fixing up their act with updates, releasing them faster, and giving more support to devices. However, the Android Twelve update could have gone much better.<br>(Disclaimer: I am using a Galaxy S10e, my views are reflective of my experiences with these updates, and the flagship devices.)</p>
 <p>This story is the first ever Prism Exclusive! Please discuss in the comments.</p>
 <p><br>Android 12 Beta:<br>“On September 14, 2021, the One UI 4.0 Android 12 beta went live for the Galaxy S21 series in select markets. It was gradually rolled out in all supported markets. Samsung eventually opened up the beta to the Galaxy Z Fold 3, Galaxy Z Flip 3 and the Galaxy Note 20 series.” (Quote: <a href="https://www.sammobile.com/samsung/android-12-update/" target="_blank" rel="noopener noreferrer">SamMobile</a>)<br>Initially, problems seemed to arise, Icon theming didn’t extend to google apps, and the Monet palettes generated were excessively vibrant compared to their google counterparts. These problems have not yet been resolved.<br><br>Good Lock:<br>Samsung’s semi-official tweaking hub “Good Lock”, received a multitude of updates for Android 12, most notably, the ability to import custom icon packs. However, this update poses potential legal issues, as refunded icon packs stay in the Good Lock app, available for use. On the good side of Good Lock, icon packs are finally available on the stock “One UI” launcher(albeit with the Good Lock app needed to be downloaded from the Galaxy Store), volume can be adjusted on an app-by-app basis, side-swipe gestures can perform a vast multitude of actions, the recents menu can be completely redesigned; and the keyboard’s colors, animations, and sounds can all be customized. All in all, the Good Lock app really completes the One UI experience.</p>
 <p>The Rollout:<br>The rollout of Android 12 and One UI 4.0 was a little shaky, but there were no major setbacks, and some devices got their update months ahead of schedule. The problem arises in the contents of the update. Kevin27 on the Samsung forum said “so I've just checked most of mine are using blue inside, which is the main color of my chosen pallette, I've found 2 using purple instead (which is one of the other 2 colors in my pallette) the Play Store is one, Google Clock app is the other - I don't know why these 2 are using purple instead of the blue.” This update left many people confused, so let’s explain what’s happening in the case of Kevin27. The One ui 4.0 theme selector shows 3 colors per Monet theme.</p>
-<figure class="post__image"><img loading="lazy"  src="https://prism.pages.dev/media/posts/9/librewolf_VxpaZDHf1Z-2.png" sizes="100vw" srcset="https://prism.pages.dev/media/posts/9/responsive/librewolf_VxpaZDHf1Z-2-xs.png 300w ,https://prism.pages.dev/media/posts/9/responsive/librewolf_VxpaZDHf1Z-2-sm.png 480w ,https://prism.pages.dev/media/posts/9/responsive/librewolf_VxpaZDHf1Z-2-md.png 768w ,https://prism.pages.dev/media/posts/9/responsive/librewolf_VxpaZDHf1Z-2-lg.png 1024w ,https://prism.pages.dev/media/posts/9/responsive/librewolf_VxpaZDHf1Z-2-xl.png 1360w ,https://prism.pages.dev/media/posts/9/responsive/librewolf_VxpaZDHf1Z-2-2xl.png 1600w"  alt="" width="292" height="80"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://prism.ninja/media/posts/9/librewolf_VxpaZDHf1Z-2.png" sizes="100vw" srcset="https://prism.ninja/media/posts/9/responsive/librewolf_VxpaZDHf1Z-2-xs.png 300w ,https://prism.ninja/media/posts/9/responsive/librewolf_VxpaZDHf1Z-2-sm.png 480w ,https://prism.ninja/media/posts/9/responsive/librewolf_VxpaZDHf1Z-2-md.png 768w ,https://prism.ninja/media/posts/9/responsive/librewolf_VxpaZDHf1Z-2-lg.png 1024w ,https://prism.ninja/media/posts/9/responsive/librewolf_VxpaZDHf1Z-2-xl.png 1360w ,https://prism.ninja/media/posts/9/responsive/librewolf_VxpaZDHf1Z-2-2xl.png 1600w"  alt="" width="292" height="80"></figure>
 <p>The palettes being shown with this little amount of description leads to people not knowing what their own pallettes even mean. The main color of Kevin’s pallette was actually supposed to be purple, but with Samsung’s poor implementation of Monet, the apps that should be themed purple were left the default android 11 blue. As to my personal experiences, a Samsung support agent had the same problems as me, and could not provide a fix on this. What happened? To be honest, I really have no clue how Samsung’s implementation didn’t affect all of the android apps, however, I have heard from developers that there are multiple ways to implement monet into apps(and that they are all very convoluted), and it looks like whatever implementation the indie devs used worked a lot better than the Google implementation. </p>
-<figure class="post__image"><img loading="lazy"  src="https://prism.pages.dev/media/posts/9/Screenshot_20220209-211149_Firefox.jpg" sizes="100vw" srcset="https://prism.pages.dev/media/posts/9/responsive/Screenshot_20220209-211149_Firefox-xs.jpg 300w ,https://prism.pages.dev/media/posts/9/responsive/Screenshot_20220209-211149_Firefox-sm.jpg 480w ,https://prism.pages.dev/media/posts/9/responsive/Screenshot_20220209-211149_Firefox-md.jpg 768w ,https://prism.pages.dev/media/posts/9/responsive/Screenshot_20220209-211149_Firefox-lg.jpg 1024w ,https://prism.pages.dev/media/posts/9/responsive/Screenshot_20220209-211149_Firefox-xl.jpg 1360w ,https://prism.pages.dev/media/posts/9/responsive/Screenshot_20220209-211149_Firefox-2xl.jpg 1600w"  alt="A samsung support member reproducing the issue" width="1080" height="2280"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://prism.ninja/media/posts/9/Screenshot_20220209-211149_Firefox.jpg" sizes="100vw" srcset="https://prism.ninja/media/posts/9/responsive/Screenshot_20220209-211149_Firefox-xs.jpg 300w ,https://prism.ninja/media/posts/9/responsive/Screenshot_20220209-211149_Firefox-sm.jpg 480w ,https://prism.ninja/media/posts/9/responsive/Screenshot_20220209-211149_Firefox-md.jpg 768w ,https://prism.ninja/media/posts/9/responsive/Screenshot_20220209-211149_Firefox-lg.jpg 1024w ,https://prism.ninja/media/posts/9/responsive/Screenshot_20220209-211149_Firefox-xl.jpg 1360w ,https://prism.ninja/media/posts/9/responsive/Screenshot_20220209-211149_Firefox-2xl.jpg 1600w"  alt="A samsung support member reproducing the issue" width="1080" height="2280"></figure>
 <p><br><br>The solution: <br>With One UI 4.1, Samsung seemingly fixed all these issues. The real question is what was wrong? All apps that support Monet theming do work(for me, at the time of writing); but the timeline it took to get there is very bumpy. On January 15th, I received the One UI 4.0 update, and it was not until March that my phone was supposed to get 4.1. To clarify, One UI 4.1 was part of the March security patch, and it started a slow release to the s10 lineup in (reportedly) March 28th. However, that was a Switzerland only release. On April 26th, it started a US release, on Unlocked phones only(which is odd, because usually carriers release their updates faster). On April 29th, nearly two months after "March", the rest of the s10 lineup was updated to One UI 4.1. The Galaxy A21 is still in the release phase of this update, nearly two and a half months later.</p>
-<figure class="post__image"><img loading="lazy"  src="https://prism.pages.dev/media/posts/9/Screenshot_20220429-174512_System-updates.jpg" sizes="100vw" srcset="https://prism.pages.dev/media/posts/9/responsive/Screenshot_20220429-174512_System-updates-xs.jpg 300w ,https://prism.pages.dev/media/posts/9/responsive/Screenshot_20220429-174512_System-updates-sm.jpg 480w ,https://prism.pages.dev/media/posts/9/responsive/Screenshot_20220429-174512_System-updates-md.jpg 768w ,https://prism.pages.dev/media/posts/9/responsive/Screenshot_20220429-174512_System-updates-lg.jpg 1024w ,https://prism.pages.dev/media/posts/9/responsive/Screenshot_20220429-174512_System-updates-xl.jpg 1360w ,https://prism.pages.dev/media/posts/9/responsive/Screenshot_20220429-174512_System-updates-2xl.jpg 1600w"  alt="" width="1080" height="2280"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://prism.ninja/media/posts/9/Screenshot_20220429-174512_System-updates.jpg" sizes="100vw" srcset="https://prism.ninja/media/posts/9/responsive/Screenshot_20220429-174512_System-updates-xs.jpg 300w ,https://prism.ninja/media/posts/9/responsive/Screenshot_20220429-174512_System-updates-sm.jpg 480w ,https://prism.ninja/media/posts/9/responsive/Screenshot_20220429-174512_System-updates-md.jpg 768w ,https://prism.ninja/media/posts/9/responsive/Screenshot_20220429-174512_System-updates-lg.jpg 1024w ,https://prism.ninja/media/posts/9/responsive/Screenshot_20220429-174512_System-updates-xl.jpg 1360w ,https://prism.ninja/media/posts/9/responsive/Screenshot_20220429-174512_System-updates-2xl.jpg 1600w"  alt="" width="1080" height="2280"></figure>
 <p><br><br>The solution to the solution:<br>    Quite simply, Samsung has too many phones; from the A series to the Z series and S and M and W. And there are multiple phones in these lineups a year, and those phones have different models, and those different models use different carriers, and those different carriers can be in different regions that Samsung controls the updates for. The iPhone(no matter your or my opinion) is stable. With only one series a year (with the occasional SE), Apple can devote much more resources to developing good software for each device, and support them longer. If Samsung adopts a better phone tiering model, they might be able to prevent this from happening again.<br><br>Thinking about the future, Android 13 is supposed to add themed icons to all icons, (given that a developer provides a line art icon to their play store listing or apk) but Samsung’s themed icon aesthetic is not the same as Google’s; these clashing ideas may lead to a very poorly implemented design language in the future. Samsung claims to be supporting their new phones for even longer times, but until they clean up their act, this is bound to happen again.</p>
             ]]>
         </content>
@@ -47,8 +47,8 @@
         <author>
             <name>kamonanban</name>
         </author>
-        <link href="https://prism.pages.dev/about-us.html"/>
-        <id>https://prism.pages.dev/about-us.html</id>
+        <link href="https://prism.ninja/about-us/"/>
+        <id>https://prism.ninja/about-us/</id>
             <category term="Prism"/>
 
         <updated>2022-05-09T21:22:26-07:00</updated>
@@ -88,22 +88,22 @@
         <author>
             <name>kamonanban</name>
         </author>
-        <link href="https://prism.pages.dev/changelog.html"/>
-        <id>https://prism.pages.dev/changelog.html</id>
+        <link href="https://prism.ninja/changelog/"/>
+        <id>https://prism.ninja/changelog/</id>
             <category term="Prism"/>
 
-        <updated>2022-05-19T21:21:08-07:00</updated>
+        <updated>2022-05-20T06:10:45-07:00</updated>
             <summary>
                 <![CDATA[
-                    (pre-release) -renamed github, some pages may be BROKEN -Prism Exclusives tag -opinions tag (removed because of redundancy) -tab colors on supported browsers Prism v1.1.2 -remapped entire web layout from github pages to cloudflare -added sitemap to google crawler -added site to google search (hopefully) TODO:&hellip;
+                    Prism v1.2 -added new prism.ninja domain. huge thanks to mecanik.dev for buying it this time around -renamed github, some pages may be BROKEN -Prism Exclusives tag -tab colors on supported browsers Prism v1.1.2 -remapped entire web layout from github pages to cloudflare -added sitemap to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>(pre-release)</p>
+                <p>Prism v1.2</p>
+<p>-added new prism.ninja domain. huge thanks to <a href="https://mecanik.dev">mecanik.dev</a> for buying it this time around</p>
 <p>-renamed github, some pages may be BROKEN</p>
 <p>-Prism Exclusives tag</p>
-<p><span style="text-decoration: line-through;">-opinions tag </span> (removed because of redundancy)</p>
 <p>-tab colors on supported browsers</p>
 <p>Prism v1.1.2</p>
 <p>-remapped entire web layout from github pages to cloudflare</p>
@@ -137,8 +137,8 @@
         <author>
             <name>kamonanban</name>
         </author>
-        <link href="https://prism.pages.dev/grand-opening.html"/>
-        <id>https://prism.pages.dev/grand-opening.html</id>
+        <link href="https://prism.ninja/grand-opening/"/>
+        <id>https://prism.ninja/grand-opening/</id>
 
         <updated>2022-05-10T07:05:09-07:00</updated>
             <summary>
@@ -158,8 +158,8 @@
         <author>
             <name>kamonanban</name>
         </author>
-        <link href="https://prism.pages.dev/write-for-us.html"/>
-        <id>https://prism.pages.dev/write-for-us.html</id>
+        <link href="https://prism.ninja/write-for-us/"/>
+        <id>https://prism.ninja/write-for-us/</id>
             <category term="Prism"/>
 
         <updated>2022-05-09T22:06:46-07:00</updated>
@@ -184,21 +184,21 @@
         <author>
             <name>kamonanban</name>
         </author>
-        <link href="https://prism.pages.dev/nothing-special-nothing-os-launcher-beta.html"/>
-        <id>https://prism.pages.dev/nothing-special-nothing-os-launcher-beta.html</id>
+        <link href="https://prism.ninja/nothing-special-nothing-os-launcher-beta/"/>
+        <id>https://prism.ninja/nothing-special-nothing-os-launcher-beta/</id>
             <category term="Phones &amp; Tablets"/>
             <category term="Concepts"/>
 
         <updated>2022-05-10T22:42:02-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://prism.pages.dev/media/posts/3/rp749arw.bmp" alt="" />
+                        <img src="https://prism.ninja/media/posts/3/rp749arw.bmp" alt="" />
                     Former OnePlus CEO Carl Pei’s “Nothing” just released a beta of the launcher for upcoming “Nothing phone(1)”, but only officially for the Samsung s21, 22, pixel 5, 6 and supposedly Oneplus phones in the near future. Update: The launcher is now officially available on all&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://prism.pages.dev/media/posts/3/rp749arw.bmp" alt="" />
+                    <img src="https://prism.ninja/media/posts/3/rp749arw.bmp" alt="" />
                 <p>Former OnePlus CEO Carl Pei’s “Nothing” just released a beta of the launcher for upcoming “Nothing phone(1)”, but only officially for the Samsung s21, 22, pixel 5, 6 and supposedly Oneplus phones in the near future.</p>
 <p>Update: The launcher is now officially available on all android 11+ phones on the <a href="https://play.google.com/store/apps/details?id=com.nothing.launcher">Play Store [clickable]</a></p>
 <blockquote id="ips_uid_3886_2" class="ipsQuote" data-ipsquote="">
@@ -211,13 +211,13 @@
 <p> </p>
 <p>Gallery:</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://prism.pages.dev/media/posts/3/gallery/872979D3-C576-4591-B1A2-FA2A65EC5427.thumb.jpeg.2dc74e0766bca0c4a4dcb9c7c81e5a75.jpeg" data-size="1000x750"><img loading="lazy" src="https://prism.pages.dev/media/posts/3/gallery/872979D3-C576-4591-B1A2-FA2A65EC5427.thumb.jpeg.2dc74e0766bca0c4a4dcb9c7c81e5a75-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://prism.ninja/media/posts/3/gallery/872979D3-C576-4591-B1A2-FA2A65EC5427.thumb.jpeg.2dc74e0766bca0c4a4dcb9c7c81e5a75.jpeg" data-size="1000x750"><img loading="lazy" src="https://prism.ninja/media/posts/3/gallery/872979D3-C576-4591-B1A2-FA2A65EC5427.thumb.jpeg.2dc74e0766bca0c4a4dcb9c7c81e5a75-thumbnail.jpeg" alt="" width="720" height="540"></a>
 <figcaption>The google search bar looks out of place on the black and white default background.</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://prism.pages.dev/media/posts/3/gallery/C062BD14-28B3-4C49-A4A6-33B017871E21.thumb.jpeg.4dcf326809e2e5e640b015a579ac6db1.jpeg" data-size="1000x750"><img loading="lazy" src="https://prism.pages.dev/media/posts/3/gallery/C062BD14-28B3-4C49-A4A6-33B017871E21.thumb.jpeg.4dcf326809e2e5e640b015a579ac6db1-thumbnail.jpeg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://prism.ninja/media/posts/3/gallery/C062BD14-28B3-4C49-A4A6-33B017871E21.thumb.jpeg.4dcf326809e2e5e640b015a579ac6db1.jpeg" data-size="1000x750"><img loading="lazy" src="https://prism.ninja/media/posts/3/gallery/C062BD14-28B3-4C49-A4A6-33B017871E21.thumb.jpeg.4dcf326809e2e5e640b015a579ac6db1-thumbnail.jpeg" alt="" width="720" height="540"></a>
 <figcaption>When that nothing effect looks good, it REALLY looks good</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://prism.pages.dev/media/posts/3/gallery/image.thumb.jpeg.0854a8ca572c11c0dc35b0420d114abc.jpeg" data-size="710x1500"><img loading="lazy" src="https://prism.pages.dev/media/posts/3/gallery/image.thumb.jpeg.0854a8ca572c11c0dc35b0420d114abc-thumbnail.jpeg" alt="" width="710" height="1500"></a>
+<figure class="gallery__item"><a href="https://prism.ninja/media/posts/3/gallery/image.thumb.jpeg.0854a8ca572c11c0dc35b0420d114abc.jpeg" data-size="710x1500"><img loading="lazy" src="https://prism.ninja/media/posts/3/gallery/image.thumb.jpeg.0854a8ca572c11c0dc35b0420d114abc-thumbnail.jpeg" alt="" width="710" height="1500"></a>
 <figcaption>Material you is kinda broken.</figcaption>
 </figure>
 </div></div>
@@ -231,20 +231,20 @@
         <author>
             <name>kamonanban</name>
         </author>
-        <link href="https://prism.pages.dev/googles-little-signals.html"/>
-        <id>https://prism.pages.dev/googles-little-signals.html</id>
+        <link href="https://prism.ninja/googles-little-signals/"/>
+        <id>https://prism.ninja/googles-little-signals/</id>
             <category term="Concepts"/>
 
         <updated>2022-05-10T22:42:08-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://prism.pages.dev/media/posts/2/librewolf_sak7XbzYq4.png" alt="" />
+                        <img src="https://prism.ninja/media/posts/2/librewolf_sak7XbzYq4.png" alt="" />
                     Little Signals, a DIY ambient computing kit by Google. Recently, Google unveiled a project called “little signals”, it is their biggest exploration into ambient computing since google assistant. Essentially, little signals are notification alerts that are designed to be as little of an intrusion into&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://prism.pages.dev/media/posts/2/librewolf_sak7XbzYq4.png" alt="" />
+                    <img src="https://prism.ninja/media/posts/2/librewolf_sak7XbzYq4.png" alt="" />
                 <div class="ipsType_normal ipsType_richText ipsPadding_bottom ipsContained" data-role="commentContent" data-controller="core.front.core.lightboxedImages">
 <p>Little Signals, a DIY ambient computing kit by Google.</p>
 <p>Recently, Google unveiled a project called “little signals”, it is their biggest exploration into ambient computing since google assistant. Essentially, little signals are notification alerts that are designed to be as little of an intrusion into life as possible.</p>
