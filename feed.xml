@@ -3,7 +3,7 @@
     <title>Prism</title>
     <link href="https://prism.ninja/feed.xml" rel="self" />
     <link href="https://prism.ninja" />
-    <updated>2022-05-20T06:10:45-07:00</updated>
+    <updated>2022-05-20T17:17:56-07:00</updated>
     <author>
         <name>kamonanban</name>
     </author>
@@ -51,7 +51,7 @@
         <id>https://prism.ninja/about-us/</id>
             <category term="Prism"/>
 
-        <updated>2022-05-09T21:22:26-07:00</updated>
+        <updated>2022-05-20T17:17:31-07:00</updated>
             <summary>
                 <![CDATA[
                     Head Author - Kamonanban Hi, I'm kamonanban, I started this blog/news platform in early 2022 after I closed my YouTube channel (as of now). I focus on aggregating news from across the web, and giving my opinionated take on it. I am a big believer&hellip;
@@ -92,7 +92,7 @@
         <id>https://prism.ninja/changelog/</id>
             <category term="Prism"/>
 
-        <updated>2022-05-20T06:10:45-07:00</updated>
+        <updated>2022-05-20T17:17:11-07:00</updated>
             <summary>
                 <![CDATA[
                     Prism v1.2 -added new prism.ninja domain. huge thanks to mecanik.dev for buying it this time around -renamed github, some pages may be BROKEN -Prism Exclusives tag -tab colors on supported browsers Prism v1.1.2 -remapped entire web layout from github pages to cloudflare -added sitemap to&hellip;
@@ -162,7 +162,7 @@
         <id>https://prism.ninja/write-for-us/</id>
             <category term="Prism"/>
 
-        <updated>2022-05-09T22:06:46-07:00</updated>
+        <updated>2022-05-20T17:17:56-07:00</updated>
             <summary>
                 <![CDATA[
                     Prism is founded on the premise of collaboration, there are two ways to submit a story for free. (please note, prism makes ZERO money, and will not compensate you for your work, I am not compensated either, think of it like an open forum!) How&hellip;
