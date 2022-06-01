@@ -3,12 +3,40 @@
     <title>Prism</title>
     <link href="https://prism.ninja/feed.xml" rel="self" />
     <link href="https://prism.ninja" />
-    <updated>2022-05-20T17:24:01-07:00</updated>
+    <updated>2022-05-31T17:10:16-07:00</updated>
     <author>
         <name>kamonanban</name>
     </author>
     <id>https://prism.ninja</id>
 
+    <entry>
+        <title>Pixel 6a: Big Trade Offs</title>
+        <author>
+            <name>kamonanban</name>
+        </author>
+        <link href="https://prism.ninja/pixel-6a-big-trade-offs/"/>
+        <id>https://prism.ninja/pixel-6a-big-trade-offs/</id>
+
+        <updated>2022-05-31T17:09:30-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Google just announced their new A-Series Pixel, and it's taking the concept behind the iPhone SE to the extreme. The Pixel 6a will be rocking the full Google Tensor chip, without the major hardware flaws of the SE, and for nearly the same price! So&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span style="font-weight: 400;">Google just announced their new A-Series Pixel, and it's taking the concept behind the iPhone SE to the extreme. The Pixel 6a will be rocking the full Google Tensor chip, without the major hardware flaws of the SE, and for nearly the same price! So what's the catch? Well, the problem with the Pixel 6a isn't actually the phone itself, it's its big brother, the Pixel 6. The Pixel 6 only costs $600, so are there few enough compromises to justify spending that $150 less?</span></p>
+<figure class="post__image"><img loading="lazy"  src="https://prism.ninja/media/posts/12/google-pixel-6a-fingerprint-sensor-anim.gif" alt="" width="480" height="270"></figure>
+<p><span style="font-weight: 400;">Right off the bat, the 6a has a better fingerprint scanner (according to the leaks from Google themselves).</span></p>
+<p><span style="font-weight: 400;">(Source: </span><a href="https://www.androidpolice.com/google-pixel-6a-unboxing-video-shows-fingerprint-scanner-not-slow/"><span style="font-weight: 400;">Android Police</span></a><span style="font-weight: 400;">)</span></p>
+<p><span style="font-weight: 400;">This by itself may be a deal maker to some buyers. Unfortunately, not everything about the 6a can be praised. The screen is only 60hz while manufacturers like Samsung and OnePlus are giving their midrange competitors 120hz panels. The camera is also a disappointment, as unlike the previous A-Series, it doesn't keep the flagship setup, instead opting for the same cameras as the Pixel 5a. These downgrades are fair, seeing how Tensor exists, but again, $150. A feature people have always loved in the A-Series is the headphone jack, which the Pixel 6a omits. Another omission from last year's Pixel 5a is the charger in the box.</span></p>
+<p> </p>
+<p><span style="font-weight: 400;">All in all, the Pixel 6a is a solid midrange phone. The battery, like all of the A-Series, is supposed to be better than their flagship siblings (🙄), and it has a tried and true camera that has always managed to impress. Compared to the iPhone SE, it actually looks modern (like, come on Apple, the iPhone 8 is dead), so that's a plus. The 6a also will have an IP 67 rating (water resistant; up to one meter in water for 30 minutes) for the extra peace of mind. If you're looking for phones in that price range, the 6a is probably your best bet. It's not the best, but its software makes up for a lot of the downsides. If you can spring the extra $150, you probably won't regret splurging for its bigger sibling.</span></p>
+<p> </p>
+<p><a href="https://store.google.com/us/magazine/compare_pixel?hl=en-US&amp;toggler1=Pixel+6&amp;toggler2=Pixel+6+Pro&amp;toggler0=Pixel+6a"><span style="font-weight: 400;">Compare the 6 and 6a</span></a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>How Samsung Fumbled Android 12 (and why it will happen again)</title>
         <author>
@@ -51,34 +79,19 @@
         <id>https://prism.ninja/about-us/</id>
             <category term="Prism"/>
 
-        <updated>2022-05-20T17:19:40-07:00</updated>
+        <updated>2022-05-31T16:54:09-07:00</updated>
             <summary>
                 <![CDATA[
-                    Head Author - Kamonanban Hi, I'm kamonanban, I started this blog/news platform in early 2022 after I closed my YouTube channel (as of now). I focus on aggregating news from across the web, and giving my opinionated take on it. I am a big believer&hellip;
+                    - Head Author | Kamonanban "Hi, I'm kamonanban, I started this blog/news platform in early 2022 after I closed my YouTube channel (as of now). I am a big believer on an open-source future, and am trying to advocate for free and collaborative news. Im&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Head Author - Kamonanban</p>
-<blockquote>
-<p>Hi, I'm kamonanban, I started this blog/news platform in early 2022 after I closed my YouTube channel (as of now). I focus on aggregating news from across the web, and giving my opinionated take on it. I am a big believer on an open-source future, and am trying to advocate for free and collaborative news.</p>
-<p>A bit about me - </p>
-</blockquote>
-<ul>
-<li>
-<blockquote>I'm 15 years old</blockquote>
-</li>
-<li>
-<blockquote>I'm Armenian 🇦🇲</blockquote>
-</li>
-<li>
-<blockquote>I'm currently studying engineering, computer science, and learning Java &amp; Kotlin</blockquote>
-</li>
-<li>
-<blockquote>I'm big in android modding without root, i love pushing my devices to their intended maximum!</blockquote>
-</li>
-</ul>
-<p>More:</p>
+                <p class="align-center">- Head Author | Kamonanban </p>
+<p>"Hi, I'm kamonanban, I started this blog/news platform in early 2022 after I closed my YouTube channel (as of now). I am a big believer on an open-source future, and am trying to advocate for free and collaborative news. Im Armenian 🇦🇲, I love hiking, running and being in the outdoors. Sustainability is important for me, and I will keep making strides to help this website, and other projects be clean for the environment. also I really like ducks."</p>
+<p class="align-center">- Co-Author | Imaperson.exe</p>
+<p>"Hi, I'm a person. I like to code, mainly in JavaScript and other languages with similar syntax. If you've never met me, I am a person. That is all you need to know. Check out some of my fun code projects that are usually either unoriginal or pointless."</p>
+<h6 class="align-center">More:</h6>
 <p>Maybe this next page can be about YOU! Join our Discord to submit your stories to Prism. <a href="https://discord.gg/nyMCH2n4dV" target="_blank" rel="noopener noreferrer">Prism Discord Server [clickable]</a></p>
             ]]>
         </content>
@@ -92,16 +105,21 @@
         <id>https://prism.ninja/changelog/</id>
             <category term="Prism"/>
 
-        <updated>2022-05-20T17:24:01-07:00</updated>
+        <updated>2022-05-31T17:10:16-07:00</updated>
             <summary>
                 <![CDATA[
-                    Prism v1.2 -analytics are through cloudflare, and shouldnt track you across sites -added new prism.ninja domain. huge thanks to mecanik.dev for buying it this time around -renamed github, some pages may be BROKEN -Prism Exclusives tag -tab colors on supported browsers Prism v1.1.2 -remapped entire&hellip;
+                    Prism v1.2.1 - reworked about us - added placeholder matrix links and sustainability message to footer - increased hero size TODO: add matrix room(synced to discord) Prism v1.2 -analytics are through cloudflare, and shouldn't track you across sites -added new prism.ninja domain. huge thanks to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Prism v1.2</p>
-<p>-analytics are through cloudflare, and shouldnt track you across sites</p>
+                <p>Prism v1.2.1</p>
+<p>- reworked about us</p>
+<p>- added placeholder matrix links and sustainability message to footer</p>
+<p>- increased hero size</p>
+<p>TODO: add matrix room(synced to discord)</p>
+<p>Prism v1.2</p>
+<p>-analytics are through cloudflare, and shouldn't track you across sites</p>
 <p>-added new prism.ninja domain. huge thanks to <a href="https://mecanik.dev">mecanik.dev</a> for buying it this time around</p>
 <p>-renamed github, some pages may be BROKEN</p>
 <p>-Prism Exclusives tag</p>
