@@ -3,7 +3,7 @@
     <title>Prism</title>
     <link href="https://prism.ninja/feed.xml" rel="self" />
     <link href="https://prism.ninja" />
-    <updated>2022-06-12T13:04:10-07:00</updated>
+    <updated>2022-06-12T13:14:22-07:00</updated>
     <author>
         <name>kamonanban</name>
     </author>
@@ -150,15 +150,16 @@
         <id>https://prism.ninja/about-us/</id>
             <category term="Prism"/>
 
-        <updated>2022-05-31T16:54:09-07:00</updated>
+        <updated>2022-06-12T13:14:22-07:00</updated>
             <summary>
                 <![CDATA[
-                    - Head Author | Kamonanban "Hi, I'm kamonanban, I started this blog/news platform in early 2022 after I closed my YouTube channel (as of now). I am a big believer on an open-source future, and am trying to advocate for free and collaborative news. Im&hellip;
+                    Prism is a home of young enthusiasts from all corners of the internet. We look into many topics, and hope to share what we know to the world! - Head Author | Kamonanban "Hi, I'm kamonanban, I started this blog/news platform in early 2022 after&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="align-center">- Head Author | Kamonanban </p>
+                <p>Prism is a home of young enthusiasts from all corners of the internet. We look into many topics, and hope to share what we know to the world!</p>
+<p class="align-center">- Head Author | Kamonanban </p>
 <p>"Hi, I'm kamonanban, I started this blog/news platform in early 2022 after I closed my YouTube channel (as of now). I am a big believer on an open-source future, and am trying to advocate for free and collaborative news. Im Armenian 🇦🇲, I love hiking, running and being in the outdoors. Sustainability is important for me, and I will keep making strides to help this website, and other projects be clean for the environment. also I really like ducks."</p>
 <p class="align-center">- Co-Author | Imaperson.exe</p>
 <p>"Hi, I'm a person. I like to code, mainly in JavaScript and other languages with similar syntax. If you've never met me, I am a person. That is all you need to know. Check out some of my fun code projects that are usually either unoriginal or pointless."</p>

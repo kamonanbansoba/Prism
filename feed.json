@@ -62,8 +62,8 @@
             "id": "https://prism.ninja/about-us/",
             "url": "https://prism.ninja/about-us/",
             "title": "About Us",
-            "summary": "- Head Author | Kamonanban \"Hi, I'm kamonanban, I started this blog/news platform in early 2022 after I closed my YouTube channel (as of now). I am a big believer on an open-source future, and am trying to advocate for free and collaborative news. Im&hellip;",
-            "content_html": "<p class=\"align-center\">- Head Author | Kamonanban </p>\n<p>\"Hi, I'm kamonanban, I started this blog/news platform in early 2022 after I closed my YouTube channel (as of now). I am a big believer on an open-source future, and am trying to advocate for free and collaborative news. Im Armenian 🇦🇲, I love hiking, running and being in the outdoors. Sustainability is important for me, and I will keep making strides to help this website, and other projects be clean for the environment. also I really like ducks.\"</p>\n<p class=\"align-center\">- Co-Author | Imaperson.exe</p>\n<p>\"Hi, I'm a person. I like to code, mainly in JavaScript and other languages with similar syntax. If you've never met me, I am a person. That is all you need to know. Check out some of my fun code projects that are usually either unoriginal or pointless.\"</p>\n<h6 class=\"align-center\">More:</h6>\n<p>Maybe this next page can be about YOU! Join our Discord to submit your stories to Prism. <a href=\"https://discord.gg/nyMCH2n4dV\" target=\"_blank\" rel=\"noopener noreferrer\">Prism Discord Server [clickable]</a></p>",
+            "summary": "Prism is a home of young enthusiasts from all corners of the internet. We look into many topics, and hope to share what we know to the world! - Head Author | Kamonanban \"Hi, I'm kamonanban, I started this blog/news platform in early 2022 after&hellip;",
+            "content_html": "<p>Prism is a home of young enthusiasts from all corners of the internet. We look into many topics, and hope to share what we know to the world!</p>\n<p class=\"align-center\">- Head Author | Kamonanban </p>\n<p>\"Hi, I'm kamonanban, I started this blog/news platform in early 2022 after I closed my YouTube channel (as of now). I am a big believer on an open-source future, and am trying to advocate for free and collaborative news. Im Armenian 🇦🇲, I love hiking, running and being in the outdoors. Sustainability is important for me, and I will keep making strides to help this website, and other projects be clean for the environment. also I really like ducks.\"</p>\n<p class=\"align-center\">- Co-Author | Imaperson.exe</p>\n<p>\"Hi, I'm a person. I like to code, mainly in JavaScript and other languages with similar syntax. If you've never met me, I am a person. That is all you need to know. Check out some of my fun code projects that are usually either unoriginal or pointless.\"</p>\n<h6 class=\"align-center\">More:</h6>\n<p>Maybe this next page can be about YOU! Join our Discord to submit your stories to Prism. <a href=\"https://discord.gg/nyMCH2n4dV\" target=\"_blank\" rel=\"noopener noreferrer\">Prism Discord Server [clickable]</a></p>",
             "author": {
                 "name": "kamonanban"
             },
@@ -71,7 +71,7 @@
                    "Prism"
             ],
             "date_published": "2022-05-09T21:22:26-07:00",
-            "date_modified": "2022-05-31T16:54:09-07:00"
+            "date_modified": "2022-06-12T13:14:22-07:00"
         },
         {
             "id": "https://prism.ninja/changelog/",
